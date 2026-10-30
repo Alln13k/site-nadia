@@ -55,14 +55,9 @@ export const locations = [
 ] as const;
 
 export const social = [
-  { label: "LinkedIn", href: "https://www.linkedin.com/feed/" },
   {
     label: "Facebook",
     href: "https://www.facebook.com/profile.php?id=100089166795080",
-  },
-  {
-    label: "Instagram",
-    href: "https://www.instagram.com/nadia_el_ferkane_blanc/",
   },
 ] as const;
 
